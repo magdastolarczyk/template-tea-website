@@ -171,7 +171,7 @@ h2, h3 {
 }
 
 .article-photo {
-  background-image: url("kaktus3.png");
+  background-image: url("article-1.jpg");
   background-size: cover;
   height: 300px;
   width: 100%;
@@ -185,7 +185,7 @@ h2, h3 {
 }
 
 .article-photo-2 {
-  background-image: url("plantacja.png");
+  background-image: url("article-2.png");
 }
 
 .article-title {
@@ -271,8 +271,9 @@ h2, h3 {
 }
 
 .newsletter-input {
-  padding: 10px 20px;
+  padding: 10px 60px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .newsletter-button {
